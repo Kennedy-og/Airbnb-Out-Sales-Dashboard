@@ -83,3 +83,5 @@ and support stakeholders in making informed pricing, investment, and property ma
 - Improve interactivity with parameters
 - Automate refresh using Tableau Prep
 - Expand geographical or temporal granularity
+
+[Back To Top](#table-of-contents)
